@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tirad\\Downloads\\Proyectos-Ejercicios\\Examen_Aplicativo\\backend-app\\Examen_Aplicativo\\Examen_Aplicativo.csproj": {}
+    "C:\\Users\\tirad\\Downloads\\Proyectos-Ejercicios\\Aplicacion_Boton_Interactivo\\backend-app\\Examen_Aplicativo\\Examen_Aplicativo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tirad\\Downloads\\Proyectos-Ejercicios\\Examen_Aplicativo\\backend-app\\Examen_Aplicativo\\Examen_Aplicativo.csproj": {
+    "C:\\Users\\tirad\\Downloads\\Proyectos-Ejercicios\\Aplicacion_Boton_Interactivo\\backend-app\\Examen_Aplicativo\\Examen_Aplicativo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tirad\\Downloads\\Proyectos-Ejercicios\\Examen_Aplicativo\\backend-app\\Examen_Aplicativo\\Examen_Aplicativo.csproj",
+        "projectUniqueName": "C:\\Users\\tirad\\Downloads\\Proyectos-Ejercicios\\Aplicacion_Boton_Interactivo\\backend-app\\Examen_Aplicativo\\Examen_Aplicativo.csproj",
         "projectName": "Examen_Aplicativo",
-        "projectPath": "C:\\Users\\tirad\\Downloads\\Proyectos-Ejercicios\\Examen_Aplicativo\\backend-app\\Examen_Aplicativo\\Examen_Aplicativo.csproj",
+        "projectPath": "C:\\Users\\tirad\\Downloads\\Proyectos-Ejercicios\\Aplicacion_Boton_Interactivo\\backend-app\\Examen_Aplicativo\\Examen_Aplicativo.csproj",
         "packagesPath": "C:\\Users\\tirad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tirad\\Downloads\\Proyectos-Ejercicios\\Examen_Aplicativo\\backend-app\\Examen_Aplicativo\\obj\\",
+        "outputPath": "C:\\Users\\tirad\\Downloads\\Proyectos-Ejercicios\\Aplicacion_Boton_Interactivo\\backend-app\\Examen_Aplicativo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tirad\\AppData\\Roaming\\NuGet\\NuGet.Config"
