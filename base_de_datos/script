@@ -1,0 +1,12 @@
+CREATE DATABASE ExamenAplicativoDB;
+
+USE ExamenAplicativoDB;
+
+CREATE TABLE Mensajes (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Texto NVARCHAR(500),
+    Fecha DATETIME
+);
+
+INSERT INTO Mensajes (Texto, Fecha)
+VALUES ('Hola Mundo', GETDATE());
